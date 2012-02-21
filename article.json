@@ -4,5 +4,8 @@
     "date": "Fri Aug 26 2011 03:08:50 GMT-0700 (PST)",
     "tags": ["core", "streams"],
     "author": "Charlie McConnell",
-    "difficulty": 2
+    "difficulty": 4,
+    "categories": [
+      ["Streaming"]
+    ]
 }
